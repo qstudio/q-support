@@ -27,13 +27,13 @@ Please do not use the Wordpress.org forum to report bugs, as we do not monitor o
 ## Screenshots ##
 
 ###1. Support Request Form###
-![ScreenShot](https://{s.w.org/plugins/q-support/screenshot-1.png?r=859686})
+![ScreenShot](https://s.w.org/plugins/q-support/screenshot-1.png?r=859686)
 
 ###2. Support Tracking###
-![ScreenShot](https://{s.w.org/plugins/q-support/screenshot-2.png?r=859686)
+![ScreenShot](https://s.w.org/plugins/q-support/screenshot-2.png?r=859686)
 
 ###3. WP Support Website###
-![ScreenShot](https://{s.w.org/plugins/q-support/screenshot-3.png?r=859686})
+![ScreenShot](https://s.w.org/plugins/q-support/screenshot-3.png?r=859686)
 
 
 ## Frequently Asked Questions ##
