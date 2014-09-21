@@ -2,8 +2,8 @@
 Contributors: qlstudio
 Tags: support, help, assistance, guidance, code, fixes, community help, forums, guidance, community
 Requires at least: 3.2
-Tested up to: 3.8.1
-Stable tag: 1.0.3
+Tested up to: 4.0.0
+Stable tag: 1.0.4
 License: GPL
 
 WordPress Support helps site admins, developers and owners to solve technical issues and configuration problems with themes, widgets & plugins.
@@ -41,6 +41,10 @@ This process invovles creating a new user account on WP Support - if you already
 If you choose not to "connect" you account - the plugin cannot send or recieve information from WP Support - which renders it practically useless - however, you could still post and follow up questions directly on the WP Support website, if you prefer.
 
 == Changelog ==
+
+= 1.0.4 = 
+
+* WP 4.0 check
 
 = 1.0.3 = 
 
