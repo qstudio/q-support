@@ -4,13 +4,13 @@
  * Plugin Name:     WordPress Support
  * Plugin URI:      http://wp-support.co/
  * Description:     NOTE: This plugin is currently in BETA development and will be released soon!
- * Version:         1.0.4
+ * Version:         1.1.0
  * Author:          Q Studio
  * Author URI:      http://qstudio.us
  * License:         GPL2
  * Class:           Q_Support
- * Extends          Q_Plugin
  * Text Domain:     q-support
+ * GitHub Plugin URI: qstudio/q-support
  */
 
 /*  
