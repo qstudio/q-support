@@ -3,7 +3,7 @@
 **Tags:** support, help, assistance, guidance, code, fixes, community help, forums, guidance, community  
 **Requires at least:** 3.2    
 **Tested up to:** 5.4.0   
-**Stable tag:** 1.1.0    
+**Stable tag:** 1.5.0    
 **License:** GPL  
 
 WordPress Support helps site admins, developers and owners to solve technical issues and configuration problems with themes, widgets & plugins.

@@ -4,7 +4,7 @@
  * Plugin Name:     WordPress Support
  * Plugin URI:      http://wp-support.co/
  * Description:     NOTE: This plugin is currently in BETA development and will be released soon!
- * Version:         1.1.0
+ * Version:         1.5.0
  * Author:          Q Studio
  * Author URI:      http://qstudio.us
  * License:         GPL2
@@ -40,7 +40,7 @@ if ( ! class_exists( 'Q_Support' ) )
 {
     
     // plugin version
-    define( 'Q_SUPPORT_VERSION', '1.0.4' ); // version ##
+    define( 'Q_SUPPORT_VERSION', '1.5.0' ); // version ##
 
     // cache ##
     define( 'Q_SUPPORT_CACHE', true ); // cache and transients ##
